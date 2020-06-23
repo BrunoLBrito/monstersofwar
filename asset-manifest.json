@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/monstersofwar/static/css/main.e5e4218f.chunk.css",
+    "main.js": "/github.io/monstersofwar/static/js/main.0d801db0.chunk.js",
+    "main.js.map": "/github.io/monstersofwar/static/js/main.0d801db0.chunk.js.map",
+    "runtime-main.js": "/github.io/monstersofwar/static/js/runtime-main.aad50f06.js",
+    "runtime-main.js.map": "/github.io/monstersofwar/static/js/runtime-main.aad50f06.js.map",
+    "static/js/2.35aadf92.chunk.js": "/github.io/monstersofwar/static/js/2.35aadf92.chunk.js",
+    "static/js/2.35aadf92.chunk.js.map": "/github.io/monstersofwar/static/js/2.35aadf92.chunk.js.map",
+    "index.html": "/github.io/monstersofwar/index.html",
+    "precache-manifest.55bfd37c95283b6e91e72f6dab4c946e.js": "/github.io/monstersofwar/precache-manifest.55bfd37c95283b6e91e72f6dab4c946e.js",
+    "service-worker.js": "/github.io/monstersofwar/service-worker.js",
+    "static/css/main.e5e4218f.chunk.css.map": "/github.io/monstersofwar/static/css/main.e5e4218f.chunk.css.map",
+    "static/js/2.35aadf92.chunk.js.LICENSE.txt": "/github.io/monstersofwar/static/js/2.35aadf92.chunk.js.LICENSE.txt",
+    "static/media/logo192.png": "/github.io/monstersofwar/static/media/logo192.a3e1bb92.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aad50f06.js",
+    "static/js/2.35aadf92.chunk.js",
+    "static/css/main.e5e4218f.chunk.css",
+    "static/js/main.0d801db0.chunk.js"
+  ]
+}
