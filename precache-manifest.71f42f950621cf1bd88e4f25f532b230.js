@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fd93b9347cc1acdd191d3154b92e49ca",
+    "revision": "893d393bb4e7d966555e41ff5556aa01",
     "url": "/monstersofwar/index.html"
   },
   {
-    "revision": "599554c962eefff64870",
+    "revision": "434c7c949410021688e9",
     "url": "/monstersofwar/static/css/main.e5e4218f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/monstersofwar/static/js/2.b21d6cfe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "599554c962eefff64870",
-    "url": "/monstersofwar/static/js/main.62f121f4.chunk.js"
+    "revision": "434c7c949410021688e9",
+    "url": "/monstersofwar/static/js/main.be761653.chunk.js"
   },
   {
     "revision": "af6792b5cd2f6bb411fb",

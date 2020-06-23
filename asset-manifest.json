@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/monstersofwar/static/css/main.e5e4218f.chunk.css",
-    "main.js": "/monstersofwar/static/js/main.62f121f4.chunk.js",
-    "main.js.map": "/monstersofwar/static/js/main.62f121f4.chunk.js.map",
+    "main.js": "/monstersofwar/static/js/main.be761653.chunk.js",
+    "main.js.map": "/monstersofwar/static/js/main.be761653.chunk.js.map",
     "runtime-main.js": "/monstersofwar/static/js/runtime-main.5eeef886.js",
     "runtime-main.js.map": "/monstersofwar/static/js/runtime-main.5eeef886.js.map",
     "static/js/2.b21d6cfe.chunk.js": "/monstersofwar/static/js/2.b21d6cfe.chunk.js",
     "static/js/2.b21d6cfe.chunk.js.map": "/monstersofwar/static/js/2.b21d6cfe.chunk.js.map",
     "index.html": "/monstersofwar/index.html",
-    "precache-manifest.e7facb2e8fcb8c805c2f714f431429e5.js": "/monstersofwar/precache-manifest.e7facb2e8fcb8c805c2f714f431429e5.js",
+    "precache-manifest.71f42f950621cf1bd88e4f25f532b230.js": "/monstersofwar/precache-manifest.71f42f950621cf1bd88e4f25f532b230.js",
     "service-worker.js": "/monstersofwar/service-worker.js",
     "static/css/main.e5e4218f.chunk.css.map": "/monstersofwar/static/css/main.e5e4218f.chunk.css.map",
     "static/js/2.b21d6cfe.chunk.js.LICENSE.txt": "/monstersofwar/static/js/2.b21d6cfe.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.5eeef886.js",
     "static/js/2.b21d6cfe.chunk.js",
     "static/css/main.e5e4218f.chunk.css",
-    "static/js/main.62f121f4.chunk.js"
+    "static/js/main.be761653.chunk.js"
   ]
 }
