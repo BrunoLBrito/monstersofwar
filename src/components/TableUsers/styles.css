@@ -1,0 +1,51 @@
+.wapper {
+	overflow-x: auto;
+	max-width: 100%;
+	/* margin-top: 60px; */
+}
+
+.table-users {
+	width: 100%;
+	text-align: center;
+	border-collapse: collapse;
+}
+
+.button-group {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.table-users th {
+	background-color: slateblue;
+	color: #fff;
+}
+
+.table-users,
+.table-users th,
+.table-users td {
+	border: 1px solid #f1f1f1;
+	padding: 5px;
+}
+
+.btn-table {
+	background-color: #2196f3;
+	border: none;
+	padding: 5px;
+	color: #fff;
+	margin: 2px;
+	font-size: 1.2rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.btn-del {
+	background-color: rgb(244, 67, 54) !important;
+}
+
+.btn-edit {
+	background-color: #ffc107 !important;
+}
