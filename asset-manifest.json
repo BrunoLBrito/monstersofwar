@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/monstersofwar/static/css/main.e5e4218f.chunk.css",
-    "main.js": "/monstersofwar/static/js/main.be761653.chunk.js",
-    "main.js.map": "/monstersofwar/static/js/main.be761653.chunk.js.map",
+    "main.css": "/monstersofwar/static/css/main.32e8dca1.chunk.css",
+    "main.js": "/monstersofwar/static/js/main.b6c77c65.chunk.js",
+    "main.js.map": "/monstersofwar/static/js/main.b6c77c65.chunk.js.map",
     "runtime-main.js": "/monstersofwar/static/js/runtime-main.5eeef886.js",
     "runtime-main.js.map": "/monstersofwar/static/js/runtime-main.5eeef886.js.map",
     "static/js/2.b21d6cfe.chunk.js": "/monstersofwar/static/js/2.b21d6cfe.chunk.js",
     "static/js/2.b21d6cfe.chunk.js.map": "/monstersofwar/static/js/2.b21d6cfe.chunk.js.map",
     "index.html": "/monstersofwar/index.html",
-    "precache-manifest.71f42f950621cf1bd88e4f25f532b230.js": "/monstersofwar/precache-manifest.71f42f950621cf1bd88e4f25f532b230.js",
+    "precache-manifest.8b3324e11b8dc0347f5ad5ac268bf01f.js": "/monstersofwar/precache-manifest.8b3324e11b8dc0347f5ad5ac268bf01f.js",
     "service-worker.js": "/monstersofwar/service-worker.js",
-    "static/css/main.e5e4218f.chunk.css.map": "/monstersofwar/static/css/main.e5e4218f.chunk.css.map",
+    "static/css/main.32e8dca1.chunk.css.map": "/monstersofwar/static/css/main.32e8dca1.chunk.css.map",
     "static/js/2.b21d6cfe.chunk.js.LICENSE.txt": "/monstersofwar/static/js/2.b21d6cfe.chunk.js.LICENSE.txt",
     "static/media/logo192.png": "/monstersofwar/static/media/logo192.a3e1bb92.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5eeef886.js",
     "static/js/2.b21d6cfe.chunk.js",
-    "static/css/main.e5e4218f.chunk.css",
-    "static/js/main.be761653.chunk.js"
+    "static/css/main.32e8dca1.chunk.css",
+    "static/js/main.b6c77c65.chunk.js"
   ]
 }
